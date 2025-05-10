@@ -1,2 +1,3 @@
-# Figures
-Computacion Grafica
+# Figuras Geometricas
+Computacion Grafica 
+Deber 1 Parcial 1
